@@ -1,7 +1,7 @@
 ### Fala Devs!
 
 - 🔭 Iniciante na carreira de front-end
-- 🌱 Atualmente estudando JavaScript
+- 🌱 Atualmente estudando Javascrip  
 
 <div>
   <a href="https://github.com/rafaballerini">
